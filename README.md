@@ -11,7 +11,7 @@ I'm brazlian frontend developer who is currently living is Sweden with a lot of 
 
 <br />
 
-<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: ba;">
+<div style="display: flex; gap: 1em; align-items: ba;">
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
     <img src="https://github-readme-stats.vercel.app/api?username=guilhermespopolin&count_private=true&show_icons=true&hide=stars&theme=react" />
   </a>

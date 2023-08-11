@@ -9,5 +9,5 @@ I'm a brazilian frontend developer who is currently living is Sweden with a lot 
 
 <!-- Contributions snake -->
 <div align="center">
-  <img src="https://github.com/guilhermespopolin/guilhermespopolin/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/guilhermespopolin/guilhermespopolin/blob/output/github-snake.svg" />
 </div>
